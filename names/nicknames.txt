@@ -1,0 +1,19 @@
+Calico,1
+The Black,2
+The Red,2
+Jumpin',1
+Captain,1
+Captain,1
+Captain,1
+Captain,1
+The Scourge,2
+de la Isla,2
+The Merciless,2
+Merciful,1
+Dangerous,1
+Quick,1
+Moneybags,1
+Reliable,1
+Dank,1
+Lusty,1
+The Unfortunate,2
